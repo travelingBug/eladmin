@@ -11,6 +11,7 @@ public class EladminSystemApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("-------------------------大王叫我来巡山-------------------------");
     }
 
 }
